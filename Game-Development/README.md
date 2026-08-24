@@ -77,11 +77,6 @@ Create a Brick Breaker game where the player destroys bricks using a ball and pa
 # Submission Guidelines
 
 - Use any game engine of your choice.
-- Include a short README explaining:
-  - Which engine was used.
-  - Controls.
-  - Features implemented.
-  - Bonus features completed (if any).
 - Ensure the game is playable before submission.
 
 Good luck, and have fun building games! 🎮

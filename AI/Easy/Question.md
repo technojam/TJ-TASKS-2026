@@ -59,6 +59,6 @@ W3Schools Python Lists & Comprehensions Guide
 Python Built-in String Methods (lower(), split())
 
 # Resources
-youtube video link : https://www.youtube.com/watch?v=m5n7Gu1unsI
+youtube video link :[Video link]( https://www.youtube.com/watch?v=m5n7Gu1unsI)
 
-Documentations : https://www.analyticsvidhya.com/blog/2019/08/how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python/
+Documentations : [Documentation](https://www.analyticsvidhya.com/blog/2019/08/how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python/)

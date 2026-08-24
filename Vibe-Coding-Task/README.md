@@ -144,3 +144,4 @@ When the stack overflows and StackOverflow fails you, consult these ancient scro
 * 🦆 [Rubber Duck Debugging Guide](https://en.wikipedia.org/wiki/Rubber_duck_debugging) — Talk to a duck when the LLM stops understanding your prompts.
 
 > **Final Advice:** May your builds be green, your runtime be swift, and your coffee be eternally hot. Happy VibeCoding! 🚀✨
+> **Made with ❤️ by Team TechnoJam**

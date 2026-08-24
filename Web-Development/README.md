@@ -41,6 +41,9 @@ Deploy the website using [GitHub Pages](https://docs.github.com/en/pages), [Clou
 - [Learn HTML](https://youtu.be/iVCzmDwIQpA?si=8y1_kt671MAcfJxp)
 - [Learn CSS](https://youtu.be/K1naz9wBwKU?si=kq4itqKN1zt2y9OL)
 - [Learn JS](https://youtu.be/htznIeWKgg8?si=U1zjx3EiiRJYnGQE)
+- [Deploy to Vercel](https://youtu.be/E8xaV6fiTaA?si=fDS8i8Ur7q-ZLiF6)
+- [Deploy to Github Pages](https://youtu.be/-tNcdd7Xy2k?si=lTyZ4SJPWkm49k1T)
+- [Deploy to Cloudfare Pages](https://youtu.be/eyJ1JPlu0qs?si=UxdL9IyG9cAI_HUv)
 
 ---
 
@@ -68,6 +71,9 @@ Deploy the website using [GitHub Pages](https://docs.github.com/en/pages), [Clou
 
 - [Learn CRUD](https://medium.com/@jmartinez729/full-crud-with-javascript-1c3fb77f81f)
 - [Learn React](https://youtu.be/Xe8CkYZvCig?si=9kC-brDg95_ZDcHC) 
+- [Deploy to Vercel](https://youtu.be/E8xaV6fiTaA?si=fDS8i8Ur7q-ZLiF6)
+- [Deploy to Github Pages](https://youtu.be/-tNcdd7Xy2k?si=lTyZ4SJPWkm49k1T)
+- [Deploy to Cloudfare Pages](https://youtu.be/eyJ1JPlu0qs?si=UxdL9IyG9cAI_HUv)
 
 ---
 
@@ -110,6 +116,9 @@ Deploy the website using [GitHub Pages](https://docs.github.com/en/pages), [Clou
 - [Clerk Auth](https://clerk.com/)
 - [Tanstack](https://tanstack.com/)
 - [Learn Tanstack](https://youtu.be/mPaCnwpFvZY?si=LFQFC1lxKJOY8TXn)
+- [Deploy to Vercel](https://youtu.be/E8xaV6fiTaA?si=fDS8i8Ur7q-ZLiF6)
+- [Deploy to Github Pages](https://youtu.be/-tNcdd7Xy2k?si=lTyZ4SJPWkm49k1T)
+- [Deploy to Cloudfare Pages](https://youtu.be/eyJ1JPlu0qs?si=UxdL9IyG9cAI_HUv)
 ---
 
 

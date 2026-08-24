@@ -23,6 +23,7 @@ Create a simple calculator mobile application.
 - Include clear/reset functionality.
 - Create a clean mobile UI.
 - Run the app on an emulator or physical device.
+- Push the project to github
 
 ### Bonus
 
@@ -57,6 +58,7 @@ Create a simple notes mobile application.
 - Add a search option.
 - Store notes locally so they remain after restarting the app.
 - Create a clean mobile UI.
+- Push the project to github.
 
 ### Bonus
 
@@ -96,6 +98,7 @@ Create a mobile application that allows users to search for GitHub profiles.
 - Add navigation between screens.
 - Create a clean mobile UI.
 - Run the application on an emulator or physical device.
+- Push the project to github.
 
 ### Resources
 

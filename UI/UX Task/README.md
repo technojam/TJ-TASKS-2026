@@ -123,11 +123,11 @@ AI Product
 ## Submission Requirements
 
 For all levels, submit:
-
-- Source/design file or link
-- Screenshots
-- Prototype link (where applicable)
-- Short design documentation
+- Create a github repo and add these things in a readme file
+    - Source/design file or link
+    - Screenshots
+    - Prototype link (where applicable)
+    - Short design documentation
 
 Make sure your work is properly documented and that you understand the design decisions and tools used.
 

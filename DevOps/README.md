@@ -6,6 +6,8 @@ We have prepared 3 DevOps tasks according to their respective difficulty levels.
 
 Note: Complete and submit the assigned task according to the instructions provided by the TechnoJam team.
 
+> **Resources:** For reference materials, tools, and helpful links for DevOps, check out `Resources.md`.
+
 ---
 
 ## Easy - Git and GitHub
@@ -131,11 +133,13 @@ PORT=3000
 - Deploy your Node.js application using Vercel.
 - Make sure the deployed application is accessible through a public URL.
 - Add the deployed URL to your `README.md`.
+- Add the **Docker container/image link** to your `README.md`(Docker Hub or registry URL).
 - Add screenshots of:
   - Docker setup
   - Running Docker container
   - Application
   - Vercel deployment
+  - Docker Hub (or registry) repository showing the pushed image
 
 ### Bonus
 
@@ -152,6 +156,7 @@ Make a change to your application, push it to GitHub, and verify that the deploy
 - Source code
 - Scripts
 - Docker files
+- Docker container/image link (Docker Hub)
 - Screenshots
 - Documentation
 - GitHub repository

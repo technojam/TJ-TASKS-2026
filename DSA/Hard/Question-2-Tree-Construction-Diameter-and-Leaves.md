@@ -85,5 +85,6 @@ For `n = 4, d = 2, l = 3`: A star graph with center vertex 1 connected to vertic
 
 ## Topics
 
-- Trees
-- Graphs
+- [Trees & Graphs](https://youtu.be/NRghrZdR0G4?si=38zI4RO3pfK6RY4s)
+- [DFS/BFS & Tree Diameter](https://youtu.be/pcKY4hjDrxk?si=AtrljJEpfjFHzSpQ)
+- [Constructive Algorithms](https://youtu.be/AqpZ-huiyGY?si=WIonjyzWJkeBOXpU)

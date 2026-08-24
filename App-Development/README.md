@@ -116,5 +116,5 @@ Create a mobile application that allows users to search for GitHub profiles.
 Make sure your work is properly documented and that you understand the code and concepts used.
 
 **Good Luck!**
+**Made with ❤️ by Team TechnoJam**
 
-**Team TechnoJam**

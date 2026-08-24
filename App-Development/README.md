@@ -23,6 +23,7 @@ Create a simple calculator mobile application.
 - Include clear/reset functionality.
 - Create a clean mobile UI.
 - Run the app on an emulator or physical device.
+- Push the project to github
 
 ### Bonus
 
@@ -35,6 +36,10 @@ Create a simple calculator mobile application.
 - [Swift — Apple Developer](https://developer.apple.com/swift/)
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- [Learn Kotlin](https://youtu.be/dzUc9vrsldM?si=rUZRUUMBHT3-7zq5)
+- [Learn React Native](https://youtu.be/BUXnASp_WyQ?si=mbaKiZ_Wn07OM8VD)
+- [Learn Flutter](https://youtu.be/pTJJsmejUOQ?si=tJZrC8-HSaOjWpdm)
+- [Learn Swift](https://youtu.be/8Xg7E9shq0U?si=XZ31dgDh7mklJjGK)
 
 ---
 
@@ -53,6 +58,7 @@ Create a simple notes mobile application.
 - Add a search option.
 - Store notes locally so they remain after restarting the app.
 - Create a clean mobile UI.
+- Push the project to github.
 
 ### Bonus
 
@@ -64,6 +70,10 @@ Create a simple notes mobile application.
 - [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui/)
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- [Learn Kotlin](https://youtu.be/dzUc9vrsldM?si=rUZRUUMBHT3-7zq5)
+- [Learn React Native](https://youtu.be/BUXnASp_WyQ?si=mbaKiZ_Wn07OM8VD)
+- [Learn Flutter](https://youtu.be/pTJJsmejUOQ?si=tJZrC8-HSaOjWpdm)
+- [Learn Swift](https://youtu.be/8Xg7E9shq0U?si=XZ31dgDh7mklJjGK)
 
 ---
 
@@ -88,6 +98,7 @@ Create a mobile application that allows users to search for GitHub profiles.
 - Add navigation between screens.
 - Create a clean mobile UI.
 - Run the application on an emulator or physical device.
+- Push the project to github.
 
 ### Resources
 
@@ -96,7 +107,10 @@ Create a mobile application that allows users to search for GitHub profiles.
 - [Flutter Documentation](https://docs.flutter.dev/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
 - [GitHub REST API Documentation](https://docs.github.com/en/rest)
-
+- [Learn Kotlin](https://youtu.be/dzUc9vrsldM?si=rUZRUUMBHT3-7zq5)
+- [Learn React Native](https://youtu.be/BUXnASp_WyQ?si=mbaKiZ_Wn07OM8VD)
+- [Learn Flutter](https://youtu.be/pTJJsmejUOQ?si=tJZrC8-HSaOjWpdm)
+- [Learn Swift](https://youtu.be/8Xg7E9shq0U?si=XZ31dgDh7mklJjGK)
 ---
 
 Make sure your work is properly documented and that you understand the code and concepts used.

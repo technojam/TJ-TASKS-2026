@@ -69,5 +69,5 @@ For `n = 7`, the concatenated binary representations form the string `1101110010
 
 ## Topics
 
-- Math
-- Bit Manipulation
+- [Bit Manipulation](https://youtu.be/H_NCHm3wAMI?si=Y1aY-3B4LooSuVLv)
+- [Modular Arithmetic & Fast Exponentiation](https://youtu.be/KdePjukNs98?si=UM5-mjw0zoQLW0dK)

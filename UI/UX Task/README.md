@@ -6,25 +6,25 @@ We have prepared 3 Design tasks according to their respective difficulty levels.
 
 ---
 
-## Easy - Design Fundamentals
+## Easy - UI Design
 
-### Task: Create a Creative Poster
+### Task: Design a Personal Portfolio
 
-Design a poster for a fictional event, campaign, club, or brand of your choice.
-
+Create a personal portfolio website design
 ### Requirements
 
-- Create an original design.
-- Use appropriate typography, colors and visual hierarchy.
-- Include relevant text and visuals.
-- Maintain proper alignment and spacing.
-- Create both a primary design and one alternate version.
+- Design a desktop version.
+- Include
+    - Home 
+    - About
+    - Projects
+    - Contact
+- Use consistent colors and typography.
+- Create reusable components.
 
 ### Bonus
 
-- Create a matching social media post.
-- Create a simple brand color palette and typography guide.
-
+- Add light/dark mode.
 ### Resources
 
 - [Figma Learn](https://help.figma.com/hc/en-us/categories/360002051613-Learn-design)
@@ -33,24 +33,38 @@ Design a poster for a fictional event, campaign, club, or brand of your choice.
 
 ---
 
-## Medium - Creative & Brand Design
+## Medium - UX & Prototyping
 
-### Task: Build a Mini Brand Identity
+### Task: Design a Mobile App
 
-Create a visual identity for a fictional brand of your choice.
+Design a mobile application of your choice in Figma.
+
+This can be a:
+
+```text
+Expense Tracker 
+Food Delivery App 
+Fitness App 
+Travel App 
+Study Planner
+```
 
 ### Requirements
 
 Create:
 
-- Logo
-- Color palette
-- Typography
-- Social media post
-- Poster/banner
-- Business card or other brand collateral
-
-Maintain a consistent visual identity across all designs.
+- Create at least 5 screens.
+- Design a complete user flow.
+- Create
+    - Onboarding
+    - Home/Dashboard
+    - Main feature screen
+    - Details screen
+    - Profile/Settings
+- Use Auto Layout.
+- Use consistent typography, colors and spacing.
+- Create an interactive prototype connecting the screens.
+- Maintain a consistent visual identity across all designs.
 
 
 ### Resources
@@ -81,6 +95,7 @@ AI Product
 
 - Create at least 5 screens.
 - Design a complete user flow.
+- Create a complete design system.
 - Use components, variants and Auto Layout.
 - Create a clickable prototype.
 - Design important UI states such as loading, error and success.
@@ -90,7 +105,7 @@ AI Product
 ### Bonus
 
 - Responsive desktop and mobile designs.
-- Complete design system.
+- dark/light mode
 
 ### Resources
 
@@ -108,11 +123,11 @@ AI Product
 ## Submission Requirements
 
 For all levels, submit:
-
-- Source/design file or link
-- Screenshots
-- Prototype link (where applicable)
-- Short design documentation
+- Create a github repo and add these things in a readme file
+    - Source/design file or link
+    - Screenshots
+    - Prototype link (where applicable)
+    - Short design documentation
 
 Make sure your work is properly documented and that you understand the design decisions and tools used.
 

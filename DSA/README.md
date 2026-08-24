@@ -57,3 +57,11 @@ For each problem, evaluators should consider:
 - **Below 55**: Not currently ready for team selection
 
 > **Note to Evaluators:** Do not make the numerical score the sole selection criterion. Ensure holistic review of the candidate's logic and approach.
+
+## General Sources
+
+- [Hashing — Striver](https://www.youtube.com/watch?v=KEs5UyBJ39g)
+- [Two Pointers & Sliding Window — Striver](https://www.youtube.com/watch?v=9kdHxplyl5I)
+- [Stack & Queue — Kunal Kushwaha](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
+- [Linked List — Striver (Reverse Linked List)](https://www.youtube.com/watch?v=iRtLEoL-r-g)
+- [Recursion — Striver](https://www.youtube.com/watch?v=QeN8M8N5b3E)

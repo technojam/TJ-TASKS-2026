@@ -65,3 +65,8 @@ For each problem, evaluators should consider:
 - [Stack & Queue — Kunal Kushwaha](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
 - [Linked List — Striver (Reverse Linked List)](https://www.youtube.com/watch?v=iRtLEoL-r-g)
 - [Recursion — Striver](https://www.youtube.com/watch?v=QeN8M8N5b3E)
+
+
+**HOPE THIS HELPS**
+
+**Made with ❤️ by Team TechnoJam***

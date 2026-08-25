@@ -5,7 +5,7 @@
 
 > **Disclaimer:** No prior knowledge of machine learning is required. Prior knowledge of coffee consumption is optional but recommended. ☕
 
-You've just joined one of the most exciting fields in tech. This guide will walk you through **4 progressive tasks** — each one building on the last — so by the end, you'll go from writing `if-else` statements to building an AI that talks back to you. Yes, really.
+You've just joined one of the most exciting fields in tech. This guide will walk you through **4 progressive tasks** each one building on the last so by the end, you'll go from writing `if-else` statements to building an AI that talks back to you. Yes, really.
 
 Let's go. One step at a time. You've got this. 💪
 
@@ -69,7 +69,7 @@ print(classify_message("the app crashes every time I open it"))
 ## 🟡 Level 2 — Simulated Neural Network (Perceptron)
 
 ### What You're Building
-A single artificial neuron — the fundamental building block of every neural network — simulated entirely in pure Python. No libraries. No magic. Just math and `print()` statements.
+A single artificial neuron the fundamental building block of every neural network simulated entirely in pure Python. No libraries. No magic. Just math and `print()` statements.
 
 You'll feed it two inputs (study hours + attendance), multiply by weights, add a bias, and watch it decide if a student passes or fails. It's basically a very opinionated calculator.
 
@@ -94,7 +94,7 @@ output = 1 if weighted_sum >= 0 else 0
 ## 🔴 Level 3 — Convolutional Neural Network (CNN) with PyTorch
 
 ### What You're Building
-A real CNN that learns to recognize handwritten digits (0–9) from the famous MNIST dataset. You'll write the model architecture, training loop, and evaluation — the full pipeline.
+A real CNN that learns to recognize handwritten digits (0–9) from the famous MNIST dataset. You'll write the model architecture, training loop, and evaluation the full pipeline.
 
 This is where things get serious. But also seriously cool.
 
@@ -247,7 +247,7 @@ Level 3 (CNN)          →  PyTorch, real training loops, GPU compute
 Level 4 (Voice Agent)  →  Multimodal pipelines, APIs, system integration
 ```
 
-Each level genuinely builds on the previous one. Don't skip ahead — the foundations matter more than you think.
+Each level genuinely builds on the previous one. Don't skip ahead the foundations matter more than you think.
 
 ---
 
@@ -265,7 +265,7 @@ Before starting, make sure you have:
 
 ## 💬 Final Note
 
-Every expert you look up to started exactly where you are right now — confused, excited, and Googling "what is a list comprehension." The only difference between them and you is time spent writing code.
+Every expert you look up to started exactly where you are right now confused, excited, and Googling "what is a list comprehension." The only difference between them and you is time spent writing code.
 
 Break things. Fix them. Break them again. That's the job.
 

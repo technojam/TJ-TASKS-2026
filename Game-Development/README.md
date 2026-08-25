@@ -85,3 +85,5 @@ Create a Brick Breaker game where the player destroys bricks using a ball and pa
 - Ensure the game is playable before submission.
 
 Good luck, and have fun building games! 🎮
+
+**Made with ❤️ by Team TechnoJam**

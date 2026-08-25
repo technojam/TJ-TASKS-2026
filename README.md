@@ -52,6 +52,8 @@ Follow these steps carefully to ensure your submission is valid:
 | 🎥 Git/GitHub Tutorial - Link 1 | [Watch on YouTube](https://youtu.be/uj4fy4kpaOA?si=s1GkVC9KHRLFbmOj) |
 | 🎥 Git/GitHub Tutorial -  Link     2 | [Watch on YouTube](https://youtu.be/Ez8F0nW6S-w?si=05yftXRYy3CyzIlF) |
 | 📝 Markdown Cheat Sheet | [markdownguide.org](https://www.markdownguide.org/cheat-sheet/) |
+| 📝 Mcp Marketplace | [Explore about MCP](https://mcpmarket.com/server) |
+| 📝 Agent.mds | [Agent.md Guide](https://agents.md/) |
 
 ---
 

@@ -34,13 +34,13 @@ The assessment should NOT reward memorization alone.
 
 Candidates will be evaluated on the following criteria:
 
-1. **Correctness** — 40%
-2. **Algorithm and Complexity** — 25%
-3. **Problem-Solving / Reasoning** — 20%
-4. **Code Quality** — 10%
-5. **Explanation** — 5%
+1. **Correctness** - 40%
+2. **Algorithm and Complexity** - 25%
+3. **Problem-Solving / Reasoning** - 20%
+4. **Code Quality** - 10%
+5. **Explanation** - 5%
 
-For each problem, evaluators should consider:
+For each problem, evaluators will consider:
 - Correctness
 - Edge cases
 - Time complexity
@@ -49,12 +49,6 @@ For each problem, evaluators should consider:
 - Ability to explain why the approach works
 - Ability to identify limitations of weaker approaches
 
-### Suggested Overall Interpretation
-
-- **85-100**: Strong candidate — highly recommended
-- **70-84**: Good candidate — recommend for technical discussion
-- **55-69**: Borderline — evaluate through interview and learning ability
-- **Below 55**: Not currently ready for team selection
 
 > **Note to Evaluators:** Do not make the numerical score the sole selection criterion. Ensure holistic review of the candidate's logic and approach.
 
@@ -69,4 +63,4 @@ For each problem, evaluators should consider:
 
 **HOPE THIS HELPS**
 
-**Made with ❤️ by Team TechnoJam***
+**Made with ❤️ by Team TechnoJam**

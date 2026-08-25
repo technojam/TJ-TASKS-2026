@@ -1,16 +1,3 @@
----
-###Building a Conversational Voice Agent (`conversational_voice_agent_task.md`)
-
-```markdown
-# Level 4 Task: Building a Real-Time Conversational Voice Agent 🎙️🤖
-
-Welcome to the cutting edge of AI engineering! Text-based bots are cool, but modern applications require **multimodal real-time interaction**. 
-
-In this task, you will connect three distinct components—**Speech-to-Text (Transcription)**, a **Language Model (Brain)**, and **Text-to-Speech (Voice Output)**—to create a fully functional voice assistant that listens to your microphone and talks back to you.
-
----
-
-
 ## 🧠 Understanding the Architecture
 
 A conversational voice pipeline operates in three smooth stages:

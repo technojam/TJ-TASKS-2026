@@ -36,7 +36,7 @@ Write a Python program that simulates a single-layer Neural Network (a Perceptro
    * Print out a clean, step-by-step visual trace showing the math at each node (Input $\rightarrow$ Weight Multiplication $\rightarrow$ Summation $\rightarrow$ Activation Decision).
 
 # Resources:
-youtube video link : https://www.youtube.com/watch?v=EYeF2e2IKEo 
+Youtube video link : https://www.youtube.com/watch?v=EYeF2e2IKEo 
 
 
 documentation : https://victorzhou.com/blog/intro-to-neural-networks/

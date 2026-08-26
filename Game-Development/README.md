@@ -155,8 +155,4 @@ Most importantly have fun building your game! 🎮
 
 ---
 
-<div align="center">
-
-Made with ❤️ by **Team TechnoJam**
-
-</div>
+**Made with ❤️ by Team TechnoJam**

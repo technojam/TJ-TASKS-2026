@@ -1,35 +1,3 @@
-Conversation with Gemini
-i want to give a task to freshers on vibecoding with a humours vibe check , it is divided into 3 parts , easy meedium hard in vibecoding , like make a cool 3d scientific calculator and all ,,, i want a .md file of it combine from greeting to last giving resources
-
-Your Markdown file is ready
-
-MD icon
-vibecoding_fresher_challenge
- MD 
-Open
-The file vibecoding_fresher_challenge.md has been successfully generated. It spans from the opening greetings and humorous vibe checks all the way through the 3-tiered challenges (Easy Matrix terminal, Medium 3D scientific calculator, and Hard agentic LLM dashboard) and wraps up with a curated survival kit and resource guide.
-
-add each specific video link and add documentation link and also add evaluation matrix based on the prompt and number of prompt and code quality
-
-Your updated Markdown file has been regenerated with specific video links, official documentation links, and a comprehensive Vibe Evaluation Matrix tracking prompt mastery, code quality, and humor.
-
-MD icon
-vibecoding_fresher_challenge
- MD 
-Open
-What was added:
-The Holy Vibe Evaluation Matrix: A clear scoring table broken down by Prompt Engineering & Aura Management (30%), Code Quality & Structural Cleanliness (30%), and Vibe Factor & Humor Execution (40%).
-
-Specific Video Links: Direct YouTube crash courses and tutorials for Next.js, FastAPI, Tailwind CSS, and Three.js.
-
-Documentation Links: Official setup and documentation guides for all major technologies.
-
-
-
-
-Gemini is AI and can make mistakes.
-
-Searching the web
 # ⚡ The Ultimate VibeCoding Fresher Challenge: Mayhem Edition 🚀
 
 > **Welcome, Freshers!** 

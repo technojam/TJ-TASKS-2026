@@ -25,7 +25,8 @@ This repository contains tasks across all tracks designed to help you begin your
 ## ⏰ Deadline
 
 > **Deadline 7 September 2026!!**
-> **[SUBMISSION LINK 🔗] - (https://forms.gle/Pp9qxDu4Nvt1GAED9)**
+> <br/>
+> **[SUBMISSION LINK 🔗](https://forms.gle/Pp9qxDu4Nvt1GAED9)**
 ---
 
 ## 📋 Submission Guidelines
